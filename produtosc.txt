@@ -1,0 +1,10 @@
+1 Arroz 5.99
+2 Feijao 4.99
+3 Macarrao 3.49
+4 Acucar 2.99
+5 Sal 1.99
+6 Cafe 8.99
+7 Leite 3.79
+8 Oleo 6.49
+9 Farinha 2.49
+10 Biscoito 3.99
